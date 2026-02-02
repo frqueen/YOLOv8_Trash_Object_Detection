@@ -38,11 +38,12 @@ The model outputs bounding boxes, class predictions, and confidence scores for d
 
 The `best.pt` model achieved the highest performance during training. Example output results are shown below:
 
-![Trash Detection 1](results/output/val_batch0_pred.jpg)  
-![Trash Detection 2](sample_images/output2.jpg)  
-![Trash Detection 3](sample_images/output3.jpg)
+<img src="results/output/val_batch0_pred.jpg" alt="Trash Detection 1" width="300"/>
+<img src="sample_images/output2.jpg" alt="Trash Detection 2" width="300"/>
+<img src="sample_images/output3.jpg" alt="Trash Detection 3" width="300"/>
 
 > Bounding boxes and class labels are overlaid on images to indicate detected trash objects.
+
 
 ---
 
